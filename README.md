@@ -16,31 +16,6 @@
 </h3>
 
 
-<p align="center">
-  <a href="https://hexuntao.com"><img
-    alt="blog"
-    height="22px"
-    src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/45684d8c7ffa47e7a46482a017be1897~tplv-k3u1fbpfcp-zoom-1.image"
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/hexuntao"><img
-    alt="linkedin"
-    height="22px"
-    src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1b0e81a1ed6f419a86966774ab921739~tplv-k3u1fbpfcp-zoom-1.image"
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://www.youtube.com/@hexuntao2112"><img
-    alt="youtube"
-    height="22px"
-    src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/68504aa6669045e9a6a1c44cfe09e99e~tplv-k3u1fbpfcp-zoom-1.image"
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://juejin.cn/user/4068622145698077"><img
-    alt="juejin"
-    height="22px"
-    src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a0c7bd0ac1f4356ba621f5c8464b7e4~tplv-k3u1fbpfcp-zoom-1.image"
-  /></a>
-</p>
 
 
 <h4></h4>
